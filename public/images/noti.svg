@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="36" viewBox="0 0 32 36">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 900 1000">
+      <image width="900" height="1000" xlink:href="noti-image.png"/>
+    </pattern>
+  </defs>
+  <g id="noti" transform="translate(-1392 -1432)">
+    <rect id="noti-2" data-name="noti" width="32" height="36" transform="translate(1392 1432)" fill="url(#pattern)"/>
+  </g>
+</svg>

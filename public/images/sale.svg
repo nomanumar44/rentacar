@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="25" viewBox="0 0 26 25">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 980 955">
+      <image width="980" height="955" xlink:href="sale-image.png"/>
+    </pattern>
+  </defs>
+  <g id="sale" transform="translate(334 -2258)">
+    <g id="Group_10" data-name="Group 10">
+      <rect id="saleg" width="26" height="25" transform="translate(-334 2258)" fill="url(#pattern)"/>
+    </g>
+  </g>
+</svg>

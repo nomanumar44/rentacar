@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="26" viewBox="0 0 32 26">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 512 410">
+      <image width="512" height="410" xlink:href="Group%206-image.png"/>
+    </pattern>
+  </defs>
+  <g id="Group_6" data-name="Group 6" transform="translate(332 -2183)">
+    <rect id="_07d54ff29ab290202458e2cae9176e88" data-name="07d54ff29ab290202458e2cae9176e88" width="32" height="26" transform="translate(-332 2183)" fill="url(#pattern)"/>
+  </g>
+</svg>
